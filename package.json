@@ -1,0 +1,22 @@
+{
+  "name": "artjoker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fatheras/Artjoker.git"
+  },
+  "author": "Stas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fatheras/Artjoker/issues"
+  },
+  "homepage": "https://github.com/Fatheras/Artjoker#readme",
+  "dependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
